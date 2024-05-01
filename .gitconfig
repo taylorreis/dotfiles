@@ -1,0 +1,15 @@
+[apply]
+
+	whitespace = fix
+
+[branch]
+
+	sort = -committerdate
+
+[push]
+
+	autoSetupRemote = true
+
+[init]
+
+	defaultBranch = main
