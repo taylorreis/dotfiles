@@ -15,6 +15,7 @@
 	defaultBranch = main
 
 [alias]
+
 	cob = checkout -b
 	aa = add -A .
 	cam = commit -am
