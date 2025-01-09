@@ -6,13 +6,17 @@
 
 	sort = -committerdate
 
-[push]
+[help]
 
-	autoSetupRemote = true
+	autocorrect = 20
 
 [init]
 
 	defaultBranch = main
+
+[push]
+
+	autoSetupRemote = true
 
 [alias]
 
